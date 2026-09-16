@@ -1,0 +1,26 @@
+# Core
+llama-index-core==0.14.24
+llama-index
+
+# OpenAI integrations
+llama-index-llms-openai==0.7.10
+llama-index-embeddings-openai==0.6.0
+
+huggingface-hub
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+
+llama-index-llms-groq
+
+# OpenAI SDK
+openai>=1.100,<3.0
+
+# Vector store
+faiss-cpu
+
+# Environment variables
+python-dotenv>=1.0,<2.0
+
+# Useful for documents / data
+pypdf>=5.0,<7.0
+
