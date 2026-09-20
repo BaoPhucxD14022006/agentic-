@@ -12,6 +12,9 @@ llama-index-embeddings-huggingface
 
 llama-index-llms-groq
 
+llama-index-embeddings-nvidia
+llama-index-llms-nvidia
+
 # OpenAI SDK
 openai>=1.100,<3.0
 
